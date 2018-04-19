@@ -2,24 +2,24 @@
 
 Step 1: Switch to your repository's directory
 
-  cd /path/to/your/repo
+  'cd /path/to/your/repo'
   
 Step 2: Connect your existing repository to Bitbucket
 
-  git remote add origin git@bitbucket.org:ZhangDuo1/abc.git
+  'git remote add origin git@bitbucket.org:ZhangDuo1/abc.git'
   
-  git push -u origin master
+  'git push -u origin master'
   
 2，从头开始：
 
-git clone git@bitbucket.org:ZhangDuo1/abc.git
+'git clone git@bitbucket.org:ZhangDuo1/abc.git'
 
-cd abc
+'cd abc'
 
-echo "# My project's README" >> README.md
+'echo "# My project's README" >> README.md'
 
-git add README.md
+'git add README.md'
 
-git commit -m "Initial commit"
+'git commit -m "Initial commit"'
 
-git push -u origin master
+'git push -u origin master'
