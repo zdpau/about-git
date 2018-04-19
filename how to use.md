@@ -12,14 +12,14 @@ Step 2: Connect your existing repository to Bitbucket
   
 2，从头开始：
 
-`git clone git@bitbucket.org:ZhangDuo1/abc.git
+```git clone git@bitbucket.org:ZhangDuo1/abc.git
 
  cd abc
 
-'echo "# My project's README" >> README.md'
+ echo "# My project's README" >> README.md
 
-'git add README.md'
+ git add README.md
 
-'git commit -m "Initial commit"'
+ git commit -m "Initial commit"
 
-'git push -u origin master'
+ git push -u origin master```
