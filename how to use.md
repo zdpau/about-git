@@ -22,4 +22,4 @@ Step 2: Connect your existing repository to Bitbucket
 
  git commit -m "Initial commit"
 
- git push -u origin master```
+ git push -u origin master
