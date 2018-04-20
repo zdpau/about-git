@@ -1,4 +1,6 @@
 # about-git
+https://www.cnblogs.com/chenwolong/p/GIT.html 这篇比较好
+
 https://git-scm.com/book/zh/v2
 
 一，起步
